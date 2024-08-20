@@ -15,3 +15,4 @@ plotly
 plotly-express
 mmcv-full --no-binary mmcv-full
 opencv-python-headless
+opencv-contrib-python
