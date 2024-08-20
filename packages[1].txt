@@ -7,3 +7,5 @@ libpulse-dev
 libgl1
 cmake
 libssl-dev
+freeglut3-dev
+libgtk2.0-dev
