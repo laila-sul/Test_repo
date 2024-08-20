@@ -6,7 +6,7 @@ streamlit-webrtc
 streamlit_option_menu
 easyocr
 streamlit
-opencv-python-headless==4.5.5.64
+opencv-python-headless==4.10.0
 mmdet
 mmocr
 paddleocr
@@ -15,5 +15,5 @@ mycolorpy
 plotly
 plotly-express
 mmcv-full --no-binary mmcv-full
-opencv-python
+opencv-python==4.10.0.84
 opencv-python-headless
