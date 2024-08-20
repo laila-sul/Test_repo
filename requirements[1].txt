@@ -2,10 +2,8 @@ numpy
 Pillow
 pyaudio
 pocketsphinx
-streamlit-webrtc
 streamlit_option_menu
 easyocr
-streamlit
 mmdet
 mmocr
 paddleocr
@@ -15,4 +13,6 @@ plotly
 plotly-express
 mmcv-full --no-binary mmcv-full
 opencv-python-headless
-opencv-contrib-python
+opencv-contrib-python-headless
+streamlit==0.81.1
+streamlit_webrtc==0.20.0
